@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtymeena&label=Profile%20views&color=0e75b6&style=flat" alt="kirtymeena" /> </p>
 
-- 🔭 I’m currently working on my [portfolio](https://github.com/kirtymeena/portfolio) website
+- 🔭 I’m currently working on fullstack [Task Management App](https://github.com/kirtymeena/kanban-task-management) 
 
-- 🌱 I’m currently learning **React, Redux toolkit, Sass**
+- 🌱 I’m currently learning **React, Redux toolkit, Sass** 
 
 - 📫 How to reach me **kirtymeena@gmail.com**
 
