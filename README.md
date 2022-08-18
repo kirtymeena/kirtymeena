@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kirtymeena@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GAwdBRZc1qw56cNF8-BwFC1G1mrZnd8_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUdnKnJeNejdMLLczLeTPG1IfWjbOe_j/view?usp=sharing)
 
 - ⚡ Fun fact **I Like to sketch**
 <br/>
