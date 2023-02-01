@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtymeena&label=Profile%20views&color=0e75b6&style=flat" alt="kirtymeena" /> </p>
 
-- 🔭 I’m currently working on creating my website
+- 🔭 I’m currently working on creating Instagram clone
 
-- 🌱 I’m currently learning **React, Redux toolkit, Sass** 
+- 🌱 I’m currently learning **Redux toolkit, Sass, firebase** 
 
 - 📫 How to reach me **kirtymeena@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QUdnKnJeNejdMLLczLeTPG1IfWjbOe_j/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1afS0IJLJkTNxrpk6mbEiB9ycqXHWs9FA/view?usp=sharing)
 
 - ⚡ Fun fact **I Like to sketch**
 <br/>
