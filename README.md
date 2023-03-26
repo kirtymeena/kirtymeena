@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtymeena&label=Profile%20views&color=0e75b6&style=flat" alt="kirtymeena" /> </p>
 
-- 🔭 I’m currently working on creating Instagram clone
-
-- 🌱 I’m currently learning **Redux toolkit, Sass, firebase** 
+- 🌱 I’m currently learning **Unit testing in React** 
 
 - 📫 How to reach me **kirtymeena@gmail.com**
 
