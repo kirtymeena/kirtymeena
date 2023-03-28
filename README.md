@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **kirtymeena@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1afS0IJLJkTNxrpk6mbEiB9ycqXHWs9FA/view?usp=sharing)
-
 - ⚡ Fun fact **I Like to sketch**
 <br/>
 <h3 align="left">Connect with me:</h3>
